@@ -1,1 +1,1 @@
-# chat-API
+# Testing script
